@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1516911742 source:c:\users\mohamed zaghlol\desktop\projects\task1(bank database project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1516909010 source:c:\users\mohamed zaghlol\desktop\projects\task1(bank database project)\bank database project.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1516904579 c:\users\mohamed zaghlol\desktop\projects\task1(bank database project)\bank database project.h
+
+1516911862 source:c:\users\mohamed zaghlol\desktop\projects\tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\bank database project.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1516904579 c:\users\mohamed zaghlol\desktop\projects\tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\bank database project.h
+
+1516911742 source:c:\users\mohamed zaghlol\desktop\projects\tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1516911862 source:c:\users\mohamed zaghlol\desktop\projects\tasks\peter's tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\bank database project.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1516904579 c:\users\mohamed zaghlol\desktop\projects\tasks\peter's tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\bank database project.h
+
+1516911742 source:c:\users\mohamed zaghlol\desktop\projects\tasks\peter's tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1518772477 source:e:\projects\tasks\peter's tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\bank database project.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1516904579 e:\projects\tasks\peter's tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\bank database project.h
+
+1518772478 source:e:\projects\tasks\peter's tasks\tasks of fifth lab(zaghloul)\task1(bank database project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1518772477 source:g:\courses\embeded systems\projects\project for c database bank\bank database project.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
+1516904579 g:\courses\embeded systems\projects\project for c database bank\bank database project.h
+
+1518772478 source:g:\courses\embeded systems\projects\project for c database bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database project.h"
+
